@@ -4,6 +4,7 @@
  - Swashbuckle is used for display purposes, endpoint testing, sample json data, and simple documentation.
  - There are five simple endpoints used for Creating, Reading, Reading All, Updating, and Deleting the Dog information.
  - A sample dog is given within the "dogs.json" file within the project.
+ - All of the external dependencies are available via Nuget packages.
 
 # Using the API
  - This API was built using Visual Studio 2017. When built/ran it will navigate to the Swashbuckle page for a basic documentation of the API. All of the following instructions can also be found on the Swashbuckle page in more detail. Note: the ID within the URL and the Dog Json objects must match.
